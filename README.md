@@ -5,6 +5,21 @@
 
 # Smoke ModPack
 
+Immerse yourself in the fascinating world of "Smoke," a revolutionary Minecraft modpack that combines the art of building with epic combat experiences. Here you can expect countless modifications that not only expand your creative abilities, but also take the thrill of combat to a new level.
+
+
+**Conquer epic battles:**
+Enter new dimensions of combat with "BetterEnd" and "BetterNether." Face fearsome creatures in exciting structures from "Create: Structures" and track your victories and defeats with the "Death Counter." Record epic battle moments and share them with the community using "ReplayMod" and "Replay Voice Chat."
+
+**Visual and acoustic masterpieces:**
+Experience the beauty of the Minecraft world with "Iris Shaders" and create a more realistic lighting environment with "LambDynamicLights." With "Sound Physics Remastered" you can immerse yourself in an immersive soundscape that accompanies your every journey.
+
+**Travel through changing worlds:**
+Experience dynamic environments with "Fabric Seasons" and equip yourself for every journey with the "Traveler's Backpack".
+
+**Smoke – Baue, kämpfe, beeindrucke:**
+"Smoke" bietet die ultimative Minecraft-Erfahrung für Baumeister und Krieger. Werde zum Meister der Kreation und des Kampfes in einer Welt voller unbegrenzter Möglichkeiten. Bist du bereit für das Abenteuer deines Minecraft-Lebens? Lade "Smoke" jetzt herunter und entfessle die Kraft der Kreativität und des Kamp
+
 
 ![REPLACE ME WITH YOUR ALT TEXT](https://cdn.discordapp.com/attachments/936937987214835752/1185519123359346749/MODLIST_1.png?ex=658fe7b8&is=657d72b8&hm=bea356ffb7721982e60e423ad98eb34b21b6a47e3cd144eb5d6bd1b740494dd5&)
 
