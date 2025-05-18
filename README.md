@@ -1,7 +1,9 @@
 
 
 
-![REPLACE ME WITH YOUR ALT TEXT](https://cdn.discordapp.com/attachments/936937987214835752/1185519124479225887/imp.png?ex=658fe7b9&is=657d72b9&hm=57765b4dfaecdb6a848d7c6e34623dfb7be9d99868e84f4d07e6e3423c37062b&)
+https://modrinth.com/organization/smokes-modpacks
+
+
 
 # Smoke ModPack
 
@@ -21,7 +23,6 @@ Experience dynamic environments with "Fabric Seasons" and equip yourself for eve
 "Smoke" bietet die ultimative Minecraft-Erfahrung für Baumeister und Krieger. Werde zum Meister der Kreation und des Kampfes in einer Welt voller unbegrenzter Möglichkeiten. Bist du bereit für das Abenteuer deines Minecraft-Lebens? Lade "Smoke" jetzt herunter und entfessle die Kraft der Kreativität und des Kamp
 
 
-![REPLACE ME WITH YOUR ALT TEXT](https://cdn.discordapp.com/attachments/936937987214835752/1185519123359346749/MODLIST_1.png?ex=658fe7b8&is=657d72b8&hm=bea356ffb7721982e60e423ad98eb34b21b6a47e3cd144eb5d6bd1b740494dd5&)
 
 - 3D Skin Layers
 - Advancement Plaques
